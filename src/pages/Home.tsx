@@ -99,7 +99,7 @@ const Home = () => {
       <section className="section-padding bg-secondary/30">
         <div className="container-custom">
           <div className="text-center mb-12">
-            <h2 className="font-serif text-4xl md:text-5xl font-bold mb-4">Why Choose PrintPress?</h2>
+            <h2 className="font-serif text-4xl md:text-5xl font-bold mb-4">Why Choose K S Raj Printers?</h2>
             <p className="text-xl text-muted-foreground max-w-2xl mx-auto">
               We combine quality, speed, and affordability to deliver the best printing experience
             </p>
