@@ -210,7 +210,7 @@ const Quote = () => {
 
                   <div className="bg-secondary/50 p-4 rounded-lg">
                     <p className="text-sm text-muted-foreground">
-                      <strong>Note:</strong> You can also upload design files or reference images by emailing them to info@printpress.com along with your quote request reference.
+                      <strong>Note:</strong> You can also upload design files or reference images by emailing them to info@ksrajprinters.com along with your quote request reference.
                     </p>
                   </div>
 

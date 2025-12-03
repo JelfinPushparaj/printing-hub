@@ -30,7 +30,7 @@ const About = () => {
       {/* Hero Section */}
       <section className="bg-gradient-to-r from-primary to-accent text-primary-foreground py-20">
         <div className="container-custom text-center">
-          <h1 className="font-serif text-5xl md:text-6xl font-bold mb-6">About PrintPress</h1>
+          <h1 className="font-serif text-5xl md:text-6xl font-bold mb-6">About K S Raj Printers</h1>
           <p className="text-xl md:text-2xl max-w-3xl mx-auto">
             Your trusted partner in quality printing solutions since our establishment
           </p>
@@ -44,13 +44,13 @@ const About = () => {
             <h2 className="font-serif text-4xl font-bold mb-6">Our Story</h2>
             <div className="space-y-4 text-lg text-muted-foreground leading-relaxed">
               <p>
-                PrintPress started with a simple vision: to provide high-quality, affordable printing services to businesses and individuals in our community. What began as a small printing shop has grown into a full-service printing press, serving thousands of satisfied customers.
+                K S Raj Printers started with a simple vision: to provide high-quality, affordable printing services to businesses and individuals in our community. What began as a small printing shop has grown into a full-service printing press, serving thousands of satisfied customers.
               </p>
               <p>
                 Over the years, we've invested in state-of-the-art printing equipment and trained our team to deliver exceptional results. From traditional offset printing to modern digital solutions, we've evolved with the industry while maintaining our commitment to quality and customer service.
               </p>
               <p>
-                Today, PrintPress is known for reliability, quality craftsmanship, and innovative solutions. Whether you need business cards, wedding invitations, or large format banners, we bring the same dedication and attention to detail to every project.
+                Today, K S Raj Printers is known for reliability, quality craftsmanship, and innovative solutions. Whether you need business cards, wedding invitations, or large format banners, we bring the same dedication and attention to detail to every project.
               </p>
             </div>
           </div>

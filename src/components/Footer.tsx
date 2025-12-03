@@ -12,9 +12,9 @@ const Footer = () => {
           <div>
             <div className="flex items-center space-x-2 mb-4">
               <div className="w-10 h-10 bg-accent rounded-lg flex items-center justify-center">
-                <span className="text-accent-foreground font-bold text-xl">PP</span>
+                <span className="text-accent-foreground font-bold text-xl">KS</span>
               </div>
-              <span className="font-serif text-xl font-bold">PrintPress</span>
+              <span className="font-serif text-xl font-bold">K S Raj Printers</span>
             </div>
             <p className="text-primary-foreground/80 mb-4">
               Your trusted partner for all printing needs. Quality, reliability, and customer satisfaction guaranteed.
@@ -90,8 +90,8 @@ const Footer = () => {
               </li>
               <li className="flex items-start space-x-3">
                 <Mail className="w-5 h-5 mt-0.5 text-accent" />
-                <a href="mailto:info@printpress.com" className="text-primary-foreground/80 hover:text-accent transition-colors">
-                  info@printpress.com
+              <a href="mailto:info@ksrajprinters.com" className="text-primary-foreground/80 hover:text-accent transition-colors">
+                  info@ksrajprinters.com
                 </a>
               </li>
               <li className="flex items-start space-x-3">
@@ -108,7 +108,7 @@ const Footer = () => {
         {/* Bottom Bar */}
         <div className="border-t border-primary-foreground/20 pt-8 flex flex-col md:flex-row justify-between items-center space-y-4 md:space-y-0">
           <p className="text-primary-foreground/80 text-sm">
-            © {currentYear} PrintPress. All rights reserved.
+            © {currentYear} K S Raj Printers. All rights reserved.
           </p>
           <div className="flex space-x-6 text-sm">
             <a href="#" className="text-primary-foreground/80 hover:text-accent transition-colors">

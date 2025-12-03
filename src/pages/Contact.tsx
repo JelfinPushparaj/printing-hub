@@ -64,8 +64,8 @@ const Contact = () => {
     {
       icon: Mail,
       title: "Email",
-      details: ["info@printpress.com", "support@printpress.com"],
-      action: "mailto:info@printpress.com"
+      details: ["info@ksrajprinters.com", "support@ksrajprinters.com"],
+      action: "mailto:info@ksrajprinters.com"
     },
     {
       icon: MapPin,
@@ -244,7 +244,7 @@ const Contact = () => {
                   allowFullScreen
                   loading="lazy"
                   referrerPolicy="no-referrer-when-downgrade"
-                  title="PrintPress Location"
+                  title="K S Raj Printers Location"
                 ></iframe>
               </div>
 
@@ -267,7 +267,7 @@ const Contact = () => {
                   <span>Chat on WhatsApp</span>
                 </a>
                 <a
-                  href="mailto:info@printpress.com"
+                  href="mailto:info@ksrajprinters.com"
                   className="flex items-center justify-center space-x-3 w-full py-4 bg-primary text-primary-foreground rounded-lg font-semibold hover:opacity-90 transition-opacity shadow-lg"
                 >
                   <Mail className="w-5 h-5" />
